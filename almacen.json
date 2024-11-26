@@ -1,0 +1,208 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "usuario11",
+      "password": "duoc1234",
+      "email": "usuario1@mail.clads",
+      "rut": "12345678-9",
+      "image": "assets/duoc.png",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "username": "usuario2",
+      "password": "maipu1234",
+      "email": "usuario2@mail.cl",
+      "rut": "12345678-9",
+      "image": "assets/duoc.png",
+      "isactive": true
+    },
+    {
+      "id": "4705",
+      "username": "sadasda",
+      "password": "123dsadas",
+      "email": "wqesd@asda.ca",
+      "image": "assets/duoc.png",
+      "isactive": true
+    },
+    {
+      "id": "dbc3",
+      "username": "mohammed",
+      "password": "duoc1234",
+      "email": "asdasdj@gmailmcom",
+      "rut": "12345678-9",
+      "image": "assets/duoc.png",
+      "isactive": true
+    },
+    {
+      "id": "33ae",
+      "username": "mohammed",
+      "password": "duoc1234",
+      "email": "mohammed@gmail.com",
+      "rut": "318453452",
+      "image": "assets/duoc.png",
+      "isactive": true
+    }
+  ],
+  "IClase": [
+    {
+      "id": "1",
+      "periodoAcademico": "2024-2",
+      "asignatura": "Programación Avanzada",
+      "docente": "Dr. Juan Pérez",
+      "rut": "12345678-9",
+      "fecha": "",
+      "email": "juan.perez@ejemplo.com",
+      "descripcion": "En esta clase se profundizará en los conceptos de programación orientada a objetos y patrones de diseño.",
+      "imagen": "assets/duoc.png"
+    },
+    {
+      "id": "2",
+      "periodoAcademico": "2024-2",
+      "asignatura": "Bases de Datos",
+      "docente": "Ing. María López",
+      "rut": "98765432-1",
+      "fecha": "",
+      "email": "maria.lopez@ejemplo.com",
+      "descripcion": "Esta clase cubre los fundamentos de diseño y manejo de bases de datos.",
+      "imagen": "assets/duoc.png"
+    },
+    {
+      "id": "3",
+      "periodoAcademico": "2024-2",
+      "asignatura": "Desarrollo Web",
+      "docente": "Dr. Carlos Martínez",
+      "rut": "45678901-2",
+      "fecha": "",
+      "email": "carlos.martinez@ejemplo.com",
+      "descripcion": "Creación de sitios web utilizando HTML, CSS y JavaScript.",
+      "imagen": ""
+    },
+    {
+      "id": "5",
+      "periodoAcademico": "2024-2",
+      "asignatura": "Inteligencia Artificial",
+      "docente": "Dr. Andrés Torres",
+      "rut": "21345678-4",
+      "fecha": "",
+      "email": "andres.torres@ejemplo.com",
+      "descripcion": "Conceptos y aplicaciones de la inteligencia artificial.",
+      "imagen": ""
+    }
+  ],
+  "justificaciones": [
+    {
+      "id": "3afb",
+      "claseId": "calse1",
+      "imagen": "",
+      "asignatura": "Inteligencia Artificial",
+      "fecha": "2024-10-23",
+      "descripcion": "no pude ir a clases",
+      "docente": "Dr. Carlos Martínez",
+      "comentario": "Negado"
+    },
+    {
+      "id": "c381",
+      "claseId": "calse2",
+      "imagen": "",
+      "asignatura": "Inteligencia Artificial",
+      "fecha": "2024-10-27",
+      "descripcion": "erfd",
+      "docente": "Dr. Andrés Torres"
+    },
+    {
+      "id": "382e",
+      "claseId": "calse3",
+      "imagen": "",
+      "asignatura": "Desarrollo Web",
+      "fecha": "2024-10-09",
+      "descripcion": "dasd",
+      "docente": "Dr. Carlos Martínez"
+    }
+  ],
+  "UDocente": [
+    {
+      "id": "1",
+      "username": "JuanP",
+      "password": "docente1234",
+      "email": "juan.perez@ejemplo.com",
+      "rut": "12345678-9",
+      "image": "assets/duoc.png",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "username": "MariaL",
+      "password": "docente5678",
+      "email": "maria.lopez@ejemplo.com",
+      "rut": "98765432-1",
+      "image": "assets/duoc.png",
+      "isactive": true
+    },
+    {
+      "id": "3",
+      "username": "CarlosM",
+      "password": "docente9101",
+      "email": "carlos.martinez@ejemplo.com",
+      "rut": "45678901-2",
+      "image": "assets/duoc.png",
+      "isactive": true
+    },
+    {
+      "id": "4",
+      "username": "AndresT",
+      "password": "docente1122",
+      "email": "andres.torres@ejemplo.com",
+      "rut": "21345678-4",
+      "image": "assets/duoc.png",
+      "isactive": true
+    }
+  ],
+  "asistencias": [
+    {
+      "id": "some-id",
+      "claseId": 123,
+      "asignatura": "Desarrollo Web",
+      "fecha": "25/11/2024",
+      "docente": "Dr. Carlos Martínez",
+      "estudianteRUT": "12345678",
+      "estudianteEmail": "usuario1@mail.clads",
+      "nombreEstudiante": "usuario11",
+      "estado": "Justificado"
+    },
+    {
+      "id": "some-id",
+      "claseId": 123,
+      "asignatura": "Inteligencia Artificial",
+      "fecha": "25/11/2024",
+      "docente": "Dr. Andrés Torres",
+      "estudianteRUT": "12345678",
+      "estudianteEmail": "usuario1@mail.clads",
+      "nombreEstudiante": "usuario11",
+      "estado": "Presente"
+    },
+    {
+      "id": "",
+      "claseId": "5",
+      "asignatura": "Inteligencia Artificial",
+      "docente": "Dr. Andrés Torres",
+      "estudianteRUT": "12345678",
+      "estudianteEmail": "usuario1@mail.clads",
+      "fecha": "25/11/2024",
+      "estado": "Presente",
+      "nombreEstudiante": "usuario11 "
+    },
+    {
+      "id": "some-id",
+      "claseId": 123,
+      "asignatura": "Desarrollo Web",
+      "fecha": "25/11/2024",
+      "docente": "Dr. Carlos Martínez",
+      "estudianteRUT": "12345678",
+      "estudianteEmail": "usuario1@mail.clads",
+      "nombreEstudiante": "usuario11",
+      "estado": "Presente"
+    }
+  ]
+}
