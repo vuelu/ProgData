@@ -170,39 +170,6 @@
       "estudianteEmail": "usuario1@mail.clads",
       "nombreEstudiante": "usuario11",
       "estado": "Justificado"
-    },
-    {
-      "id": "some-id",
-      "claseId": 123,
-      "asignatura": "Inteligencia Artificial",
-      "fecha": "25/11/2024",
-      "docente": "Dr. Andrés Torres",
-      "estudianteRUT": "12345678",
-      "estudianteEmail": "usuario1@mail.clads",
-      "nombreEstudiante": "usuario11",
-      "estado": "Presente"
-    },
-    {
-      "id": "",
-      "claseId": "5",
-      "asignatura": "Inteligencia Artificial",
-      "docente": "Dr. Andrés Torres",
-      "estudianteRUT": "12345678",
-      "estudianteEmail": "usuario1@mail.clads",
-      "fecha": "25/11/2024",
-      "estado": "Presente",
-      "nombreEstudiante": "usuario11 "
-    },
-    {
-      "id": "some-id",
-      "claseId": 123,
-      "asignatura": "Desarrollo Web",
-      "fecha": "25/11/2024",
-      "docente": "Dr. Carlos Martínez",
-      "estudianteRUT": "12345678",
-      "estudianteEmail": "usuario1@mail.clads",
-      "nombreEstudiante": "usuario11",
-      "estado": "Presente"
     }
   ]
 }
